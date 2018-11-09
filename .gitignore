@@ -1,0 +1,4 @@
+**/train
+**/test
+**/models
+.DS_Store
